@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
-<h3 align="center">Mechanical engineer with knowledge in computational fluid dynamics and data science</h3>
+<h3 align="center">Data Scientist with background in mechanical engineering and computational fluid mechanics</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
