@@ -10,7 +10,7 @@
 
 
 <p align='left'>
-<a href="mailto:p.zschoernig@gmail.com"><img height="30" src="./icons/email.svg"></a>
+<a href="mailto:p.zschoernig@gmail.com"><img height="30" src="./icons/email.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/p-zschoernig/"><img height="30" src="./icons/linkedin.png?raw=true"></a>
 </p>
 
