@@ -11,6 +11,7 @@
 - 📫 How to reach me **p.zschoernig@gmail.com** **https://www.linkedin.com/in/p-zschoernig/**
 
 <p align='center'>
+<a href="p.zschoernig@gmail.com"><img height="30" src="./icons/email.svg"></a>
 <a href="https://www.linkedin.com/in/p-zschoernig/"><img height="30" src="./icons/linkedin.png?raw=true"></a>
 </p>
 
