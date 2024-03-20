@@ -1,12 +1,13 @@
 <h1 align="left">Hi 👋, I'm Philipp</h1>
 <h3 align="left">based in Bern <a target="_blank" rel="noreferrer"> <img src="./icons/swiss.png?raw=true" alt="swissFlag" width="20" height="15"/> </a></h3>
+<h3 align="left">I'm looking for the right opportunity to start my data career. <a target="_blank" rel="noreferrer"> <img src="./icons/rocket.png?raw=true" alt="rocket" width="20" height="15"/> </a></h3>
 
 - 🔭 I’m currently working on Movie Recommendation(Details coming soon)
 
 - 🌱 I’m currently learning **t-SNE clustering**
 
 - 📫 How to reach me **p.zschoernig@gmail.com**
-<p align="left"> <a target="_blank" rel="noreferrer"> <img src="./icons/swiss.png?raw=true" alt="swissFlag" width="40" height="40"/> </a> </p>
+
 
 <p align="left">
 </p>
