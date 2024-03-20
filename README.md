@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **t-SNE clustering**
 
 - 📫 How to reach me **p.zschoernig@gmail.com**
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/AeroPhilipp/AeroPhilipp/tree/main/icons/swiss.png?raw=true" alt="swissFlag" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="./icons/swiss.png?raw=true" alt="swissFlag" width="40" height="40"/> </a> </p>
 
 <p align="left">
 </p>
