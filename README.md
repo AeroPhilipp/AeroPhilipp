@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
-<h3 align="center">based in Bern</h3>
+<h3 align="left">based in Bern</h3>
 
 - 🔭 I’m currently working on [Movie Recommendation](Details coming soon)
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **p.zschoernig@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
