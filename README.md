@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
-<h3 align="left">based in Bern 
+<h3 align="left">based in Bern <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
  </h3>
 
 - 🔭 I’m currently working on [Movie Recommendation](Details coming soon)
