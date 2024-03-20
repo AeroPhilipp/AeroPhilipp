@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Philipp</h1>
-<h3 align="left">based in Bern <img src="https://github.com/AeroPhilipp/AeroPhilipp/tree/main/icons/swiss.png" alt="bash" width="40" height="40"/>
+<h3 align="left">based in Bern <a <img src="https://github.com/AeroPhilipp/AeroPhilipp/tree/main/icons/swiss.png" alt="bash" width="40" height="40"/></a>
  </h3>
 
 - 🔭 I’m currently working on Movie Recommendation(Details coming soon)
