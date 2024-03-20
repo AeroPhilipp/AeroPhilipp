@@ -4,11 +4,11 @@
 | analytical background in Computaional Fluid Mechanics <a target="_blank" rel="noreferrer"> <img src="./icons/trends.svg" alt="cfd" width="20" height="15"/> </a>
 </h3>
 
-- 🔭 I’m currently working on Movie Recommendation(Details coming soon)
+- 🔭 I’m currently working on Movie Recommendation Project(Details coming soon)
 
-- 🌱 I’m currently learning **t-SNE clustering**
+- 🌱 I’m currently learning about **t-SNE clustering**
 
-- 📫 How to reach me **p.zschoernig@gmail.com**
+- 📫 How to reach me **p.zschoernig@gmail.com** **https://www.linkedin.com/in/p-zschoernig/**
 
 
 <p align="left">
