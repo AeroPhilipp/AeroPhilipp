@@ -10,6 +10,9 @@
 
 - 📫 How to reach me **p.zschoernig@gmail.com** **https://www.linkedin.com/in/p-zschoernig/**
 
+<p align='center'>
+<a href="https://www.linkedin.com/in/p-zschoernig/"><img height="30" src="./icons/linkedin.png?raw=true"></a>
+</p>
 
 <p align="left">
 </p>
