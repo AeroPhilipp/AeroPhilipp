@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
-<h3 align="left">based in Bern ![image](https://github.com/AeroPhilipp/AeroPhilipp/assets/151066217/17980974-b6c9-4121-bf3e-c9305834d707)
+<h3 align="left">based in Bern 
  </h3>
 
 - 🔭 I’m currently working on [Movie Recommendation](Details coming soon)
