@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Philipp</h1>
 <h3 align="left">based in Bern <a target="_blank" rel="noreferrer"> <img src="./icons/swiss.png?raw=true" alt="swissFlag" width="20" height="15"/> </a>
-| looking for the right opportunity to start my data career, that can make an impact on real-life issues. <a target="_blank" rel="noreferrer"> <img src="./icons/rocket.png?raw=true" alt="rocket" width="20" height="15"/> </a>
+| looking for the right opportunity to start my data career <a target="_blank" rel="noreferrer"> <img src="./icons/rocket.png?raw=true" alt="rocket" width="20" height="15"/> </a>
 | analytical background in Computaional Fluid Mechanics <a target="_blank" rel="noreferrer"> <img src="./icons/trends.svg" alt="cfd" width="20" height="15"/> </a>
 </h3>
 
