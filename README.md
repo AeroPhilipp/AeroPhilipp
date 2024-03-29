@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a Movie Recommendation Project(Details coming soon)
 
-- 🌱 I’m currently learning about **t-SNE**
+- 🌱 I’m currently learning about **Non-negative matrix factorization**
 
 
 <p align='left'>
