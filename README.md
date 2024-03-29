@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a Movie Recommendation Project(Details coming soon)
 
-- 🌱 I’m currently learning about **Non-negative matrix factorization**
+- 🌱 I’m currently learning about **Non-negative Matrix Factorization**
 
 
 <p align='left'>
