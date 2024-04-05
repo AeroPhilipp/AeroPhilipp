@@ -4,7 +4,7 @@
 | analytical background in Computational Fluid Mechanics <a target="_blank" rel="noreferrer"> <img src="./icons/trends.svg" alt="cfd" width="20" height="15"/> </a>
 </h3>
 
-- 🔭 I’m currently working on a Movie Recommendation Project -> ([short summary](https://project-summary.notion.site/Text-analysis-and-user-behaviour-2ecd72f60f504fa8bfcf60a56f761c4a))
+- 🔭 I’m currently working on a Movie Recommendation Project -> [short summary](https://project-summary.notion.site/Text-analysis-and-user-behaviour-2ecd72f60f504fa8bfcf60a56f761c4a)
 
 - 🌱 I’m currently learning about **Non-negative Matrix Factorization**
 
